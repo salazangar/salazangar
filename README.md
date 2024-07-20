@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @salazangar
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning towards SpringBoot
+- 👀 I’m interested in Backend technologies.
+- 🌱 I’m currently learning creating full-fledged SpringBoot applications
 - 💞️ I’m looking to collaborate on projects that will help with my learning
 - 📫 How to reach me, e-mail: sidharthm673@gmail.com
 
